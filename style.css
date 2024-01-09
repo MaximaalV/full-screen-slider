@@ -14,6 +14,7 @@
   box-sizing: border-box;
 }
 
+/* navigation styles */
 .wrapper {
   position: relative;
   width: 100%;
@@ -54,6 +55,7 @@
   opacity: 1;
 }
 
+/* slides styles */
 .content .slides {
   position: relative;
   width: 300vw;
